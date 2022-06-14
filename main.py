@@ -1,5 +1,6 @@
 ##### This ia python script
 
-print("Hellow world")
+if __name__ == "__main__":
+	print("Hellow world")
 
 
